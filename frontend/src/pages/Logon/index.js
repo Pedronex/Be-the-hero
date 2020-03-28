@@ -32,7 +32,6 @@ export default function Logon() {
 
         <form onSubmit={handleLogin}>
           <h1>Faça seu logon</h1>
-
           <input
             value={id}
             placeholder="Sua ID"
