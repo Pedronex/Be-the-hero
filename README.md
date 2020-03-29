@@ -16,7 +16,7 @@ description: >-
 
 ### Links:
 
-#### Site da parte frontend -[ https://5e7febc92125500009d1440d--bethehero-pedronex.netlify.com/](%20https://5e7febc92125500009d1440d--bethehero-pedronex.netlify.com/)
+#### Site da parte frontend - https://5e7febc92125500009d1440d--bethehero-pedronex.netlify.com/
 
 #### Site para fazer download do apk -  [https://expo.io/@pedronex](https://expo.io/@pedronex)
 
