@@ -29,7 +29,7 @@ export default function Profile() {
   async function handleDeleteIncident(id) {
     await api.delete(`incidents/${id}`, {
       headers: {
-        Authorization: ongId,
+        authorization: ongId,
       }
     });
     setIncidents(incidents.filter(incident => incident.id !== id));
