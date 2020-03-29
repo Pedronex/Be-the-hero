@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Be the hero\(Seja o herói\)](README.md)
 
